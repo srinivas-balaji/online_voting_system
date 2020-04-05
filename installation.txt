@@ -1,0 +1,27 @@
+Create a database "poll"
+
+import poll.sql file from phpmyadmin
+
+
+----------------------
+|ADMIN LOGIN DETAILS |
+-------------------------------------
+|URL: localhost/online_voting/admin |
+-------------------------------------
+|USER NAME: admin@example.com|
+------------------------------
+|PASSWORD: admin |
+------------------
+
+
+
+
+
+Done By, 
+	-----------------
+	|Srinivas Balaji|
+	----------------------------
+	|Contact : +91 8144-124-048|
+	-------------------------------------
+	|e-mail : srinivasbalaji99@gmail.com|
+	-------------------------------------
